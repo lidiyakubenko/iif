@@ -1,0 +1,14 @@
+{
+  "name": "iif",
+  "version": "1.0.0",
+  "description": "i am fucking first",
+  "private": true,
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  }
+}
